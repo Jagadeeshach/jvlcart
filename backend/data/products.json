@@ -1,0 +1,500 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 245.67,
+        "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+        "ratings" : 4.5,
+        "images": [
+           {
+               "image": "/images/products/1.jpg"
+           },
+           {
+            "image": "/images/products/2.jpg"
+        }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews" : 15,
+        "reviews": []
+   },
+   {
+    "name": "OPPO F21s NexOne",
+    "price": 270,
+    "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+    "ratings" : 2,
+    "images": [
+       {
+           "image": "/images/products/2.jpg"
+       }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews" : 15,
+    "reviews": []
+},
+{
+    "name": "OPPO F21s NexOne",
+    "price": 300,
+    "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+    "ratings" : 4.5,
+    "images": [
+       {
+           "image": "/images/products/3.jpg"
+       }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews" : 15,
+    "reviews": []
+},
+{
+    "name": "OPPO F21s NexOne",
+    "price": 350,
+    "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+    "ratings" : 4.5,
+    "images": [
+       {
+           "image": "/images/products/4.jpg"
+       }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews" : 15,
+    "reviews": []
+},
+{
+    "name": "OPPO F21s NexOne",
+    "price": 400,
+    "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+    "ratings" : 4.5,
+    "images": [
+       {
+           "image": "/images/products/5.jpg"
+       }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews" : 15,
+    "reviews": []
+},
+{
+    "name": "OPPO F21s Pro 5G",
+    "Price": 245.67,
+    "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+    "ratings" : 4.5,
+    "images": [
+       {
+           "image": "/images/products/1.jpg"
+       },
+       {
+        "image": "/images/products/2.jpg"
+    }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews" : 15,
+    "reviews": []
+},
+{
+"name": "OPPO F21s Nex",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 2,
+"images": [
+   {
+       "image": "/images/products/2.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/3.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/4.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/5.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+    "name": "OPPO F21s Pro 5G",
+    "Price": 245.67,
+    "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+    "ratings" : 4.5,
+    "images": [
+       {
+           "image": "/images/products/1.jpg"
+       },
+       {
+        "image": "/images/products/2.jpg"
+    }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews" : 15,
+    "reviews": []
+},
+{
+"name": "OPPO F21s Nex",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 2,
+"images": [
+   {
+       "image": "/images/products/2.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/3.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/4.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/5.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/1.jpg"
+   },
+   {
+    "image": "/images/products/2.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Nex",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 2,
+"images": [
+{
+   "image": "/images/products/2.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+{
+   "image": "/images/products/3.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+{
+   "image": "/images/products/4.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+{
+   "image": "/images/products/5.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+    "name": "OPPO F21s Pro 5G",
+    "Price": 245.67,
+    "description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+    "ratings" : 4.5,
+    "images": [
+       {
+           "image": "/images/products/1.jpg"
+       },
+       {
+        "image": "/images/products/2.jpg"
+    }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews" : 15,
+    "reviews": []
+},
+{
+"name": "OPPO F21s Nex",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 2,
+"images": [
+   {
+       "image": "/images/products/2.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/3.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/4.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/5.jpg"
+   }
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+   {
+       "image": "/images/products/1.jpg"
+   },
+   {
+    "image": "/images/products/2.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Nex",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 2,
+"images": [
+{
+   "image": "/images/products/2.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+{
+   "image": "/images/products/3.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+{
+   "image": "/images/products/4.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+},
+{
+"name": "OPPO F21s Pro 5G",
+"Price": 245.67,
+"description": "OPPO f21s Pro 5G is a Powerful device with multiple functionalities",
+"ratings" : 4.5,
+"images": [
+{
+   "image": "/images/products/5.jpg"
+}
+],
+"category": "Mobile Phones",
+"seller": "Amazon",
+"stock": 5,
+"numOfReviews" : 15,
+"reviews": []
+}
+]
